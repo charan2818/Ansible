@@ -1,6 +1,6 @@
 - name : variables preference 
   hosts : local 
-  connectiom : local
+  connection : local
   vars:
    NAME : "ansible fromm play"
    vars_file : 
