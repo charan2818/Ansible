@@ -1,0 +1,36 @@
+<student>
+       <firstname></Firstname>
+       <DOB>13-02-2005</DOB>
+       <Email>vasadinakaracharan@gmail.com</Email>
+       <Address>
+        <present>
+          <Flat>105</Flat>
+          <street>TTD kalyanamandapam Road</street>
+          <city>Palakollu</Email>
+        </present>
+        <current>
+          <Flat>104</Flat>
+          <street>TTD kalyanamandapam Road</street>
+          <city>Palakollu</city>
+        </current>
+       </Address>
+</student>
+
+<student>
+        <firstname></Firstname>
+               <DOB>13-02-2005</DOB>
+       <Email>vasadinakaracharan@gmail.com</Email>
+       <Address>
+        <present>
+          <Flat>105</Flat>
+          <street>TTD kalyanamandapam Road</street>
+          <city>Palakollu</Email>
+        </present>
+        <current>
+          <Flat>104</Flat>
+          <street>TTD kalyanamandapam Road</street>
+          <city>Palakollu</city>
+          </current>
+       </Address>
+</student>
+

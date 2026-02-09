@@ -1,0 +1,31 @@
+- Name : "Vasa. Dinakara Charan"
+  DOB :  "13-02-2005"
+  Mobile : 8639364216
+  Adresses : 
+  - type : "Permanent"
+    Door no : "13"
+    street : "TTD kalyanamandapam Road"
+    city : "Palakollu"
+    State : "AP"
+
+  - type : "Current"
+    Door no : "13"
+    street : "TTD kalyanamandapam Road"
+    city : "Palakollu"
+    State : "AP"
+
+- Name : "Vasa. Bunny"
+  DOB :  "28-01-1976"
+  Mobile : 9441116344
+  Adresses : 
+  - type : "Permanent"
+    Door no : "14"
+    street : "TTD kalyanamandapam Road"
+    city : "Palakollu"
+    State : "AP"
+
+  - type : "Current"
+    Door no : "14"
+    street : "TTD kalyanamandapam Road"
+    city : "Palakollu"
+    State : "AP"
