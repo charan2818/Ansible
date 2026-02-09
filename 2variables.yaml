@@ -1,5 +1,5 @@
 - name : print username and password
-  host : local
+  hosts : local
   connection : local
   vars_prompt:
   - name : username
@@ -14,4 +14,3 @@
   - name : print info
     ansible.builtin.debug:
       msg : "username is : {{username}}, password is : {{password}}"
-      
