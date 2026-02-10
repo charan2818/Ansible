@@ -2,16 +2,16 @@
   hosts: local 
   connection : local
   vars: 
-  PROGRAM: "Devops with AWS"
-  DURATION: 150
-  IS_LIVE: true
-  DETAILS:
-   MONTHS: 4
-   TRAINER: "Shiva"
-  TOPICS:
-   -linux
-   -shell
-   -Ansible
+   PROGRAM: "Devops with AWS"
+   DURATION: 150
+   IS_LIVE: true
+   DETAILS:
+    MONTHS: 4
+    TRAINER: "Shiva"
+   TOPICS:
+    - linux
+    - shell
+    - Ansible
   tasks:
   - name : print variables
     ansible.builtin.debug:
